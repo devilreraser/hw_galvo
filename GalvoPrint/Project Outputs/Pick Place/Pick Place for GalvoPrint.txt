@@ -1,0 +1,98 @@
+Altium Designer Pick and Place Locations
+D:\AProj\GalvoPrint\Project Outputs\Pick Place\Pick Place for GalvoPrint.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/06/19
+Time:       21:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer    Footprint       Center-X(mm) Center-Y(mm) Rotation Description          
+R48        R                  TopLayer 0603_R          9.9000       37.2000      270      Resistor             
+R47        R                  TopLayer 0603_R          11.6000      37.2000      270      Resistor             
+D3         10V                TopLayer SOT23_3         3.8000       34.4000      360      "Diodes like 1N4148" 
+D2         10V                TopLayer SOT23_3         12.6000      33.7000      90       "Diodes like 1N4148" 
+J14        CON_3              TopLayer HDR_500_3       18.6000      44.7500      180      "Header 3 Pins"      
+J16        CON_3              TopLayer HDR_254_3       97.5000      27.5000      90       "Header 3 Pins"      
+J15        CON_3              TopLayer HDR_254_3       97.5000      20.0000      90       "Header 3 Pins"      
+D5         1N4007             TopLayer SMA             5.4000       38.0000      360      Diode                
+D4         1N4007             TopLayer SMA             16.1020      38.0000      360      Diode                
+U6         MCP6024            TopLayer SOIC_14         37.0077      41.4000      0        "Opamp x 4"          
+U5         MCP6022            TopLayer SOIC_8          42.1002      7.6968       270      "Opamp x 2"          
+R46        10k                TopLayer 0603_R          44.2077      38.3000      270      Resistor             
+R45        10k                TopLayer 0603_R          29.3077      37.9000      90       Resistor             
+R44        10k                TopLayer 0603_R          44.2077      44.2000      90       Resistor             
+R43        10k                TopLayer 0603_R          29.3077      44.3000      90       Resistor             
+R42        0                  TopLayer 0603_R          30.2077      40.3000      180      Resistor             
+R41        0                  TopLayer 0603_R          43.1077      41.4000      0        Resistor             
+R40        10k                TopLayer 0603_R          41.9077      38.3000      90       Resistor             
+R39        10k                TopLayer 0603_R          31.1077      37.9000      90       Resistor             
+R38        10k                TopLayer 0603_R          42.0077      44.4000      270      Resistor             
+R37        10k                TopLayer 0603_R          31.0077      44.3000      270      Resistor             
+R36        0                  TopLayer 0603_R          30.2077      41.9000      180      Resistor             
+R35        0                  TopLayer 0603_R          37.6000      1.3000       180      Resistor             
+R34        0                  TopLayer 0603_R          37.6000      3.0000       180      Resistor             
+R33        10k                TopLayer 0603_R          37.6000      6.5500       180      Resistor             
+R32        10k                TopLayer 0603_R          60.9000      39.9000      180      Resistor             
+R31        10k                TopLayer 0603_R          37.6000      8.2500       180      Resistor             
+R30        10k                TopLayer 0603_R          60.9000      41.5000      180      Resistor             
+R29        10k                TopLayer 0603_R          41.4650      3.0500       360      Resistor             
+R28        10k                TopLayer 0603_R          82.7000      14.4000      90       Resistor             
+R27        10k                TopLayer 0603_R          37.6000      10.1500      360      Resistor             
+R26        10k                TopLayer 0603_R          60.9000      43.1000      360      Resistor             
+R25        10k                TopLayer 0603_R          37.6000      4.7500       360      Resistor             
+R24        10k                TopLayer 0603_R          60.9000      38.3000      360      Resistor             
+R23        10k                TopLayer 0603_R          46.6000      10.7500      360      Resistor             
+R22        10k                TopLayer 0603_R          60.9000      8.2000       180      Resistor             
+R21        10k                TopLayer 0603_R          46.6000      9.1500       360      Resistor             
+R20        10k                TopLayer 0603_R          60.9000      6.6000       180      Resistor             
+R19        10k                TopLayer 0603_R          42.7350      12.3500      360      Resistor             
+R18        10k                TopLayer 0603_R          81.1000      14.4000      90       Resistor             
+R17        10k                TopLayer 0603_R          46.6000      12.3500      180      Resistor             
+R16        10k                TopLayer 0603_R          60.9000      9.8000       360      Resistor             
+R15        10k                TopLayer 0603_R          46.6000      7.5500       180      Resistor             
+R14        10k                TopLayer 0603_R          60.9000      4.9000       360      Resistor             
+R13        =Value             TopLayer 0603_R          64.0000      43.1000      180      Resistor             
+R12        0                  TopLayer 0603_R          64.0000      38.3000      180      Resistor             
+R11        =Value             TopLayer 0603_R          64.0000      39.9000      180      Resistor             
+R10        0                  TopLayer 0603_R          64.0000      41.5000      180      Resistor             
+R9         =Value             TopLayer 0603_R          64.0000      6.6000       180      Resistor             
+R8         0                  TopLayer 0603_R          64.0000      8.2000       180      Resistor             
+R7         =Value             TopLayer 0603_R          64.0000      9.8000       180      Resistor             
+R6         0                  TopLayer 0603_R          64.0000      4.9000       180      Resistor             
+J13        CON_3              TopLayer HDR_254_3       52.3000      40.7000      90       "Header 3 Pins"      
+J12        CON_3              TopLayer HDR_254_3       57.3000      40.7000      90       "Header 3 Pins"      
+J11        CON_5              TopLayer HDR_254_5       54.8000      40.7000      90       "Header 5 Pins"      
+J10        CON_3              TopLayer HDR_254_3       52.3000      7.4000       90       "Header 3 Pins"      
+U4         IC_TL431_SOT23_3   TopLayer SOT23_3         16.9000      8.5000       0        ""                   
+R5         R                  TopLayer 0603_R          17.3000      5.5000       180      Resistor             
+R4         R                  TopLayer 0603_R          16.9000      11.5000      360      Resistor             
+R3         R                  TopLayer 0603_R          13.4000      8.5000       90       Resistor             
+C9         C                  TopLayer 0603_C          21.5000      19.1000      360      Capacitor            
+C8         C                  TopLayer 0603_C          14.2000      5.5000       180      Capacitor            
+U3         BU33TD3WG          TopLayer SOT23_5         87.5000      36.5000      0        "LDO 5 to 3.3V"      
+C7         C                  TopLayer 0603_C          91.0000      36.5000      90       Capacitor            
+D1         SMS05T1G           TopLayer SOT23_6         82.5000      36.5000      180      "TVS like SMS05T1G"  
+J9         CON_1              TopLayer MOUNT_HOLE      95.0000      5.0000       0        "Mounting Hole"      
+J8         CON_1              TopLayer MOUNT_HOLE      95.0000      45.0000      0        "Mounting Hole"      
+J7         CON_1              TopLayer MOUNT_HOLE      5.0000       45.0000      0        "Mounting Hole"      
+J6         CON_1              TopLayer MOUNT_HOLE      5.0000       5.0000       0        "Mounting Hole"      
+Y1         XTAL_OSC1OSC3      TopLayer OSC_DFN_2x2.5mm 77.9000      36.5000      270      ""                   
+R2         R                  TopLayer 0603_R          5.1000       30.5000      270      Resistor             
+R1         R                  TopLayer 0603_R          79.1000      6.5000       360      Resistor             
+C6         C                  TopLayer 0603_C          3.1000       30.5000      90       Capacitor            
+C5         C                  TopLayer 0603_C          75.1000      3.2000       90       Capacitor            
+C4         C                  TopLayer 0603_C          12.5000      27.0000      270      Capacitor            
+C3         C                  TopLayer 0603_C          64.6000      26.5000      360      Capacitor            
+C2         C                  TopLayer 0603_C          74.6000      38.5000      270      Capacitor            
+C1         C                  TopLayer 0603_C          77.9000      39.5000      360      Capacitor            
+J5         CON_USB            TopLayer CON_USB_MINI    79.8000      45.5000      180      ""                   
+J4         CON_5              TopLayer HDR_254_5       8.0000       26.8000      270      "Header 5 Pins"      
+J3         CON_5              TopLayer HDR_254_5       83.0000      4.0000       360      "Header 5 Pins"      
+J2         CON_3              TopLayer HDR_254_3       57.3000      7.4000       90       "Header 3 Pins"      
+J1         CON_5              TopLayer HDR_254_5       54.8000      7.4000       90       "Header 5 Pins"      
+U1         IC_PIC24FJ128GC010 TopLayer TQFP_100        77.9000      25.0000      90       ""                   
+U2         IC_PIC33FJ128GP804 TopLayer TQFP_44         21.5000      27.0000      360      ""                   
